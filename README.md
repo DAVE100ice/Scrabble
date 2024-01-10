@@ -1,4 +1,4 @@
-# Scrabble
+# Scrabble 🤔
 
 
   **Scrabble game** 
